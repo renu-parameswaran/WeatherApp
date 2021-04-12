@@ -1,3 +1,22 @@
+# Assignment
+
+## Weather app
+
+The landing screen of the app should list the cities already added by the user and the weather in these cities. 
+Users should be able to see the detailed weather of the city (weekly weather), clicking on the city tile. 
+Users can add / delete cities by clicking on the hamburger menu. 
+
+
+Tech requirements:
+You can use https://openweathermap.org/api or any similar opensource apis to fetch the weather data. 
+Use react-router-dom for navigation between different pages https://reactrouter.com/web/guides/quick-start
+Make use of react hooks for components and use class based components only when there are many methods / state to be managed in the component. 
+Use lodash for utils
+Use redux based reducers to store local state of the app. 
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
